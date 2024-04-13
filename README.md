@@ -17,7 +17,7 @@ executing keylogger.py will start the recording and updating all recorded keys i
 
 > ' --noconsole ' supresses console output to maintain stealth of the application
 
-> ' --onefile ' creates a single executable file of the code rather than an entire folder; this might raise an alert to the windows defender and it will not allow the execution of the file
+> ' --onefile ' creates a single executable file of the code rather than an entire folder; this might raise an alert for windows defender and it will not allow the execution of the file
  
 > this process may take some time
 
