@@ -3,7 +3,7 @@ A python code for a simple keylogger application that records all key strokes wh
 
 Usage of this knowledge should not be done for malicious purposes and the author is not responsible if this knowledge is used to conduct malicious activities.
 
-# Download simple-keylogger.py file
+# simple-keylogger.py file
 executing simple-keylogger.py will start the recording and updating all recorded keys and mouse clicks in keylog.txt file in the same folder
 
 # To convert this file into an executable
