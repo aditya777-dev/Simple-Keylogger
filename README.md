@@ -9,9 +9,7 @@ executing keylogger.py will start the recording and updating all recorded keys i
 
 > ' pip install pyinstaller==5.13.2 '
 
-> use this specific version to avoid error:
-
-> win32ctypes.pywin32.pywintypes.error: (225, 'BeginUpdateResourceW', 'Operation did not complete successfully because the file contains a virus or potentially unwanted software.')
+> use this specific version to avoid error: win32ctypes.pywin32.pywintypes.error: (225, 'BeginUpdateResourceW', 'Operation did not complete successfully because the file contains a virus or potentially unwanted software.')
 
 2. use this command to convert python file to an executable
 
@@ -34,6 +32,8 @@ executing keylogger.py will start the recording and updating all recorded keys i
 > move shortcut to the startup folder
 
 > now when device is powered on, the keylogger will be active and hidden in background
+
+> all keystrokes will be recorded in 'keylog.txt' file in 'dist' folder 
 
 4. to stop keylogger
 
