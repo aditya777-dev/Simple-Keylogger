@@ -2,7 +2,7 @@
 A python code for a simple keylogger application that records all key strokes while application is running.
 
 # Download simple-keylogger.py file
-executing simple-keylogger.py will start the recording and updating all recorded keys in keylog.txt file in the same folder
+executing simple-keylogger.py will start the recording and updating all recorded keys and mouse clicks in keylog.txt file in the same folder
 
 # To convert this file into an executable
 1. install PyInstaller
