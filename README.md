@@ -1,5 +1,5 @@
 # Simple-Keylogger-Spyware
-A python code for a simple keylogger application that records all key strokes while application is running.
+A python code for a simple keylogger application that records all key strokes while application is running and logs them in a logfile.
 
 # Download simple-keylogger.py file
 executing simple-keylogger.py will start the recording and updating all recorded keys and mouse clicks in keylog.txt file in the same folder
