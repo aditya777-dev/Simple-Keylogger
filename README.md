@@ -1,4 +1,4 @@
-# Simple-Keylogger-Spyware
+# Simple-Keylogger
 A python code for a simple keylogger application that records all key strokes while application is running and logs them in a logfile.
 
 Usage of this knowledge should not be done for malicious purposes and the author is not responsible if this knowledge is used to conduct malicious activities.
